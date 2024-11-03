@@ -1,1 +1,1 @@
-# sharedchat_-v1.1
+# SharedChatManager
